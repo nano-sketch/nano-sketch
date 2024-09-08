@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://imgs.search.brave.com/537APJ6TZ2n8PYdYpEOnRPlKv9YmIi4yzYZaSDiM8nw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAxLzE3LzQzLzE5/LzM2MF9GXzExNzQz/MTkyOV9iZ3F0cHpn/WUgzWTRhMWxkdmwy/a2tNM3k2VnRaYzV6/NC5qcGc" alt="Profile Banner" width="700" />
+  <img src="https://imgs.search.brave.com/mF1LT1pTgmlFOvMmq_YIPjFtDOTkH6GXDO3oyER3Pp4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA4LzM1LzAzLzM0/LzM2MF9GXzgzNTAz/MzQ1OV81YjM4SHRq/c3NlOGFPSGV0NlBh/Um93SWFDMnYzNm80/My5qcGc" alt="Profile Banner" width="700" />
 </p>
 
 <p align="center">
@@ -28,11 +28,12 @@
 
 ## 💻 Tech Stack
 
-| Languages   | Tools & Frameworks   | Databases       |
-| ----------- | -------------------- | --------------- |
-| ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)  | ![Django](https://img.shields.io/badge/-Django-333?style=flat-square&logo=django) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat-square&logo=postgresql) |
-| ![C++](https://img.shields.io/badge/-c++-333?style=flat-square&logo=cplusplus) | ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react) | ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat-square&logo=mysql) |
-| ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5) | ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js) | ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb) |
+| Languages   | Tools & Frameworks     | Databases       |
+| ----------- | ---------------------- | --------------- |
+| ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)  | ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react) | ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb) |
+| ![C++](https://img.shields.io/badge/-C++-333?style=flat-square&logo=cplusplus)     | ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js) | ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat-square&logo=mysql) |
+| ![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=java)        | ![Vim](https://img.shields.io/badge/-Vim-333?style=flat-square&logo=vim) | ![SQL](https://img.shields.io/badge/-SQL-333?style=flat-square&logo=postgresql) |
+
 
 ---
 
@@ -48,9 +49,9 @@
 ## 🚀 Featured Projects
 
 ### [Amazon lib for discord](https://github.com/nano-sketch/project1)
-- ✨ **Description:** Brief description of the project.
-- 🔧 **Tech Stack:** Technologies used.
-- 🌟 **Highlights:** Special features or milestones.
+- ✨ **Description:** Connects through to discord webhook which sends outputs about low/high prices of amazon products.
+- 🔧 **Tech Stack:** Raw python with bs4-py which is a module used for scraping.
+- 🌟 **Highlights:** Has precise and sheer details of prices including a link to the product it outputs.
 
 ### [Project 2 Title](https://github.com/yourusername/project2)
 - ✨ **Description:** Brief description of the project.
