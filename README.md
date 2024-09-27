@@ -48,7 +48,7 @@
 
 ## 🚀 Featured Projects
 
-### [Amazon lib for discord](https://github.com/nano-sketch/project1)
+### [Amazon lib for discord](https://github.com/nano-sketch/salamon-lib)
 - ✨ **Description:** Connects through to discord webhook which sends outputs about low/high prices of amazon products.
 - 🔧 **Tech Stack:** Raw python with bs4-py which is a module used for scraping.
 - 🌟 **Highlights:** Has precise and sheer details of prices including a link to the product it outputs.
@@ -64,7 +64,7 @@
 
 - 💼 **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
 - 🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- 💌 **Email:** [youremail@example.com](mailto:youremail@example.com)
+- 💌 **Email:** [280039@student.west-thames.ac.uk](mailto:280039@student.west-thames.ac.uk)
 - 💬 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yasin-mogahid-baa213325/)
 
 ---
