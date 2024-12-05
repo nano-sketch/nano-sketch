@@ -53,19 +53,19 @@
 - 🔧 **Tech Stack:** Raw python with bs4-py which is a module used for scraping.
 - 🌟 **Highlights:** Has precise and sheer details of prices including a link to the product it outputs.
 
-### [Project 2 Title](https://github.com/yourusername/project2)
-- ✨ **Description:** Brief description of the project.
-- 🔧 **Tech Stack:** Technologies used.
-- 🌟 **Highlights:** Special features or milestones.
+### [Project 2 Title](https://github.com/nano-sketch/project2)
+- ✨ **Description:** nothing here yet
+- 🔧 **Tech Stack:** null
+- 🌟 **Highlights:** null
 
 ---
 
 ## 📫 Get in Touch
 
-- 💼 **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
-- 🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- 💼 **Portfolio:** [null](https://yourportfolio.com)
+- 🐦 **Twitter:** [@null](https://twitter.com/)
 - 💌 **Email:** [280039@student.west-thames.ac.uk](mailto:280039@student.west-thames.ac.uk)
-- 💬 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yasin-mogahid-baa213325/)
+- 💬 **LinkedIn:** [Yasin Mogahid](https://www.linkedin.com/in/yasin-mogahid-baa213325/)
 
 ---
 
