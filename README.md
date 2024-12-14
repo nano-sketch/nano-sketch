@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://imgs.search.brave.com/mF1LT1pTgmlFOvMmq_YIPjFtDOTkH6GXDO3oyER3Pp4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA4LzM1LzAzLzM0/LzM2MF9GXzgzNTAz/MzQ1OV81YjM4SHRq/c3NlOGFPSGV0NlBh/Um93SWFDMnYzNm80/My5qcGc" alt="Profile Banner" width="700" />
+  <img src="https://imgs.search.brave.com/LRQJAtpF4OespAGdvLe66SIyK1X_wuLpNk13_tOfhns/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTc1/NDA3MTQyL3Bob3Rv/L3BhZGxvY2std2l0/aC1rZXkuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPW03UVBo/Zng1ZW1qWVRBUXlP/SUV6UU9kLWRqSnZW/VFNaUHFtZzg1YmUt/d2s9" alt="Profile Banner" width="700" />
 </p>
 
 <p align="center">
