@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to Nano Sketch's GitHub Profile</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/followers/nano-sketch?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/nano-sketch?label=Stars&style=social" alt="GitHub stars" />
   <img src="https://img.shields.io/badge/Focus-Open%20Source%20&%20Innovation-brightgreen?style=flat-square" alt="Focus" />
 </p>
 
