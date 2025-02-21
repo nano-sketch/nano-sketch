@@ -29,7 +29,7 @@ A passionate developer and tech enthusiast.
 
 ## Contact Me
 **Email:** 280039@student.west-thames.ac.uk  
-**Website:** [yourwebsite.com](https://yourwebsite.com)  
-**LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+**Website:** [null](https://yourwebsite.com)  
+**LinkedIn:** [linkedin.com/in/yasin](https://www.linkedin.com/in/yasin-mogahid-baa213325/)  
 
 ---
