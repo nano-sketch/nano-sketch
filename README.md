@@ -20,6 +20,8 @@ A passionate developer and tech enthusiast.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-FCC624?style=for-the-badge&logo=C&logoColor=black)
+![C++](https://img.shields.io/badge/C++-FCC624?style=for-the-badge&logo=C++&logoColor=black)
+![Java](https://img.shields.io/badge/Java-FCC624?style=for-the-badge&logo=Java&logoColor=black)
 
 
 ---
