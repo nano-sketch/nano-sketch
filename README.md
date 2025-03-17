@@ -1,5 +1,5 @@
 # Hi, I'm nano
-A passionate developer and tech enthusiast.
+A passionate developer and tech enthusiast.(currently uploading projects to empty repos - will take time)
 
 ![GitHub followers](https://img.shields.io/github/followers/nano-sketch?style=for-the-badge&logo=github) 
 ![GitHub stars](https://img.shields.io/github/stars/nano-sketch?style=for-the-badge&logo=github)
