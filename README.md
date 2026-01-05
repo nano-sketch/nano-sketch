@@ -34,6 +34,5 @@ A passionate developer and tech enthusiast.(currently uploading projects to empt
 ## Contact Me
 **Email:** 280039@student.west-thames.ac.uk  
 **Website:** [nano-sketch](https://nano-sketch.github.io/porfv/)  
-**LinkedIn:** [linkedin.com/in/yasin](https://www.linkedin.com/in/yasin-mogahid-baa213325/)  
 
 ---
