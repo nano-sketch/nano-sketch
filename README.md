@@ -1,8 +1,5 @@
 <h2 data-importer="text" align="left">Hi I'm nano</h2>
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/nano-sketch/nano-sketch/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-</div>
 
 <table>
   <tr>
