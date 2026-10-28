@@ -22,5 +22,3 @@
     </td>
   </tr>
 </table>
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/nano-sketch/nano-sketch/snake-output/snake.svg" alt="Snake animation" />
